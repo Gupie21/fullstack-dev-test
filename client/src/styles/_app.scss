@@ -1,0 +1,12 @@
+$primary-color: #fac748;
+$secondary-color: #ecf0f3;
+$transition: all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1);
+$border-radius: 44px;
+
+%container {
+  width: 100%;
+  max-width: 800px;
+  margin: auto;
+  min-height: 100vh;
+  color: #fff;
+}
